@@ -1,6 +1,6 @@
 Very basic program that checks if a number is a prime
 
-Extract zip file
+Extract downloaded zip file or clone the repository using "git clone https://github.com/BxnditWxlf/primechecker.git"
 
 
 cd into new directory
