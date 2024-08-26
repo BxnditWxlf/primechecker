@@ -1,6 +1,6 @@
 Very basic program that checks if a number is a prime
 
-Extract zip file
+Extract zip file or clone url
 
 
 cd into new directory
